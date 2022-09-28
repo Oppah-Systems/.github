@@ -32,25 +32,25 @@ We are **_HEART_** of small and medium scale companies. We AIM at serving them w
 ## Our Services
 Integer ex nisi, tincidunt ac tincidunt in, gravida id metus. Suspendisse auctor feugiat odio, non ipsum congue a. Mauris sit amet eros nec urna maximus tincidunt a a libero.
 
-  1. System Design & Development
+  #### 1. System Design & Development
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra porta quam iaculis volutpat.
 
-  2. Mobile App Design & Development
+  #### 2. Mobile App Design & Development
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra porta quam iaculis volutpat.
 
-  3. Website Design & Development
+  #### 3. Website Design & Development
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra porta quam iaculis volutpat.
 
-  4. Payment Gateways Integration
+  #### 4. Payment Gateways Integration
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra porta quam iaculis volutpat.
 
-  5. Coperate Branding
+  #### 5. Coperate Branding
        Our design team are best in cooperate branding. We love giving your brand the value it have to your customers.
 
-  6. SEO Optimization
+  #### 6. SEO Optimization
        Making your website rank first on serch engines like GOOGLE or CHROME so that to attract more leads for your business to grow much better online.
 
-  7. CCTV Camera Installation
+  #### 7. CCTV Camera Installation
        In a work space or at home, aur team of experts will take care of the security surveillance system that will ensure 24/7 security.
 
 ## WORKING PROCESS
@@ -59,22 +59,22 @@ Maecenas vel imperdiet eros. Morbi a metus in velit laoreet viverra. Cras in vul
   #### 1. Idea
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra porta quam iaculis volutpat.
 
-  2. Research
+  #### 2. Research
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra porta quam iaculis volutpat.
 
-  3. Design
+  #### 3. Design
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra porta quam iaculis volutpat.
 
-  4. Development
+  #### 4. Development
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra porta quam iaculis volutpat.
 
-  5. Quality Assurance
+  #### 5. Quality Assurance
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra porta quam iaculis volutpat.
 
-  6. Deployment
+  #### 6. Deployment
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra porta quam iaculis volutpat.
 
-  7. Upgrading
+  #### 7. Upgrading
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra porta quam iaculis volutpat.
 
 ## Contribution Guide
