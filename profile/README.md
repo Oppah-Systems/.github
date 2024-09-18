@@ -5,6 +5,9 @@
 </p>
 
 ## Oppah Systems
+Oppah Systems LTD is a leading Information and Communication Technology (ICT) company specializing in software development, digital marketing & branding, payment solutions, and graphics design & printing. The company is dedicated to delivering innovative and efficient solutions to businesses of all sizes, helping them thrive in the digital age.
+
+## Registration
 Oppah Systems has been duly registered pursuant to and in accordance with the provisions of the Business Names (Registration) Act and the Rules made thereunder, and has been entered the Number 525363 in the Index of Registration on September 21<sup>st</sup>, 2022.
 Oppah serves as an acronym for **Organized Productivity Platforms for Accessing Hi-tech**- Our integrated suite of applications with built-in capabilities which connects most critical business processes and provides consistent user experiences — so businesses can get more done.
 
