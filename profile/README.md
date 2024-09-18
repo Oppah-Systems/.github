@@ -37,25 +37,25 @@ Oppah serves as an acronym for **Organized Productivity Platforms for Accessing 
 Integer ex nisi, tincidunt ac tincidunt in, gravida id metus. Suspendisse auctor feugiat odio, non ipsum congue a. Mauris sit amet eros nec urna maximus tincidunt a a libero.
 
   #### 1. Software Development
-       Our software development team is adaptive at creating custom software solutions tailored to meet the unique needs of our clients. From web and mobile applications to enterprise software, we ensure robust, scalable, and secure solutions.
+Our software development team is adaptive at creating custom software solutions tailored to meet the unique needs of our clients. From web and mobile applications to enterprise software, we ensure robust, scalable, and secure solutions.
 
   #### 2. Bulk SMS Service
-       Our bulk SMS service enables businesses to reach a large audience quickly and efficiently. It’s a powerful tool for marketing campaigns, notifications, and customer engagement.
+Our bulk SMS service enables businesses to reach a large audience quickly and efficiently. It’s a powerful tool for marketing campaigns, notifications, and customer engagement.
 
   #### 3. Digital Marketing & Branding
-       We offer comprehensive digital marketing services that help businesses build their brand and connect with their target audience. Our strategies are data-driven and designed to deliver measurable results.
+We offer comprehensive digital marketing services that help businesses build their brand and connect with their target audience. Our strategies are data-driven and designed to deliver measurable results.
 
   #### 4. Payment Solutions
-       Our payment solutions are designed to simplify and secure financial transactions for businesses and their customers. We offer a range of services that cater to various industries and transaction types.
+Our payment solutions are designed to simplify and secure financial transactions for businesses and their customers. We offer a range of services that cater to various industries and transaction types.
 
   #### 5. Graphics Design & Printing
-       Our graphics design and printing services help businesses visually communicate their brand and message. We offer creative and professional design solutions along with high-quality printing services.
+Our graphics design and printing services help businesses visually communicate their brand and message. We offer creative and professional design solutions along with high-quality printing services.
 
   #### 6. Domain Hosting & Cloud Services
-       We provide reliable hosting and cloud services to ensure your business operations are seamless and scalable. Our solutions are designed to meet your specific needs, offering flexibility and security.
+We provide reliable hosting and cloud services to ensure your business operations are seamless and scalable. Our solutions are designed to meet your specific needs, offering flexibility and security.
 
   #### 7. WhatsApp Business Automation
-       By leveraging WhatsApp's widespread usage, we enable businesses to build strong, meaningful connections with their customers, optimize communication, and streamline various business processes.
+By leveraging WhatsApp's widespread usage, we enable businesses to build strong, meaningful connections with their customers, optimize communication, and streamline various business processes.
 
 ## Working Process
 Our development process is structured to ensure the best possible outcome for our clients. It includes the following phases:
