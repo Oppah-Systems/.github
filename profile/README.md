@@ -34,7 +34,7 @@ Oppah serves as an acronym for **Organized Productivity Platforms for Accessing 
 
 
 ## Our Services
-Integer ex nisi, tincidunt ac tincidunt in, gravida id metus. Suspendisse auctor feugiat odio, non ipsum congue a. Mauris sit amet eros nec urna maximus tincidunt a a libero.
+Oppah Systems offers a wide range of ICT services tailored to meet the diverse needs of businesses. Our services include:
 
   #### 1. Software Development
 Our software development team is adaptive at creating custom software solutions tailored to meet the unique needs of our clients. From web and mobile applications to enterprise software, we ensure robust, scalable, and secure solutions.
