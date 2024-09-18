@@ -9,11 +9,11 @@ Oppah Systems has been duly registered pursuant to and in accordance with the pr
 Oppah serves as an acronym for **Organized Productivity Platforms for Accessing Hi-tech**- Our integrated suite of applications with built-in capabilities which connects most critical business processes and provides consistent user experiences — so businesses can get more done.
 
 ## Mission
-> **“*To accelerate the use of cost-effective ICT Solutions & Infrastructures for maximum productivity & efficiency of businesses.*”**
+> **“*To provide top-notch ICT solutions that enhance business processes, improve customer engagement, and drive growth.*”**
 
 
 ## Vision
-> **“*To be the largest ICT company that design, develop & distribute scalable ICT Solutions & Infrastructures as SaaS systems in all sectors of economic activities, with cost-effective in our minds.*”**
+> **“*To be a global leader in ICT solutions, empowering businesses to achieve their full potential through cutting-edge technology and exceptional service.*”**
 
 ## Core Values
 We are **_HEART_** of small and medium scale companies. We AIM at serving them with cost-effective business management systems to ensure their maximum profitability.
